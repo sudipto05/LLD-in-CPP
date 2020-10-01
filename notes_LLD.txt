@@ -1,0 +1,94 @@
+   
+SECTION 1: INTRODUCTION
+
+   Things to keep note of during LLD Interview:
+      
+      -->Understand the problem statement
+         correctly and underline the key points
+         
+      -->Discuss the trade-offs (remove ambiguities) and  
+         play according to your strengths
+      
+      -->Optimise code using better data structures
+         according to the situation
+      
+      -->Priorities set
+
+      -->Don't over optimise, first go for correctness
+      
+      -->Extensible
+
+      -->Follow Industry Practices 
+      
+      -->Class Diagrams
+      
+      -->Writing Test Cases
+      
+      -->Expose only desired APIs
+
+      -->Minimilism
+
+      -->Handle pressure
+
+      -->Come-up with new solutions
+
+      -->Brainstorming
+
+
+SECTION 2: RIDE APPLICATION
+
+   Self-attempt:
+      https://ideone.com/Fn5C3w
+
+   Solution:
+      https://ideone.com/BwQ4B2
+
+   Lessons Learnt:
+      -->Need to Devolop more Object oriented thinking
+
+SECTION 3: MEETING SCHEDULER
+
+   Self-attempt :
+      https://ideone.com/1QGEAF
+
+  
+   Lessons Learnt:
+      -->Always use member initialisation list
+      -->define functions outside the classes
+      -->Solve without knowing the classes
+         design the solution yourself with time
+         check whether it will work, then only 
+         start coding
+
+SECTION 3: Jira
+
+   Solution :
+      https://ideone.com/DnNlPu
+
+  
+   Lessons Learnt:
+      -->generating unique_id using 
+         static variables and incrementing them
+
+SECTION 4: Bowling Game System
+
+   //First learn to play bowling then implement
+
+   Solution:
+      https://ideone.com/999O1X
+
+SECTION 5: Snake and Ladder Game
+
+   Lessons Learnt:
+      -->Pointer object can be used to avoid 
+         definition of default constructor
+      -->Pointer object consumes less memory
+
+   Self-Attempt:
+      https://ideone.com/8WZKUL
+
+   
+
+
+
+      
